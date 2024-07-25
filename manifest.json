@@ -1,8 +1,8 @@
 {
-    "name": "Board Light Controller",
+    "name": "Matrix Light Controller",
     "short_name": "LightController",
     "description": "A simple led light controller",
-    "start_url": "/LEDBoard",
+    "start_url": "/rgbmatrix",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
